@@ -4,7 +4,7 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [Countdown mobile app](https://www.codementor.io/projects/mobile/countdown-mobile-app-bjzn08zcon)
 
 ## Tech/framework used
-Built with ___
+Built with java
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
